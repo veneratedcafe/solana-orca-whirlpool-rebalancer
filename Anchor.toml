@@ -1,0 +1,7 @@
+[toolchain]
+anchor_version = "0.30.0"
+[programs.localnet]
+solana-orca-whirlpool-rebalancer = "11111111111111111111111111111111"
+[provider]
+cluster = "Localnet"
+wallet = "~/.config/solana/id.json"
